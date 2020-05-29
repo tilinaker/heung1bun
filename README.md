@@ -4,7 +4,7 @@
 * 다운로드가 완료되면 압축을 아무데나 풉니다.
 * https://drive.google.com/drive/folders/16AmtzVdhc8N2qs90zp-Vz1WNajj8JtjN?usp=sharing 에서 portable python을 다운로드 후 실행합니다.
 * 압축 푼 폴더에 설치합니다.
-* 설치하기.bat을 실행합니다
+* 설치.bat을 실행합니다
 * 게임을 실행하려면 실행.bat을 실행합니다
 
 ## 조작법
